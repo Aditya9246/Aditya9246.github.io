@@ -1,0 +1,19 @@
+		h1{
+		    text-decoration: underline;
+		}
+		h3{
+		    text-decoration: underline;
+		}
+            .info{
+                background-color: rgb(24, 247, 13);
+                color: rgb(34, 0, 255);
+            }
+            .cityInfo{
+                background-color: rgb(255, 123, 0);
+            }
+            .foodInfo{
+                background-color: rgb(17, 255, 0);
+            }
+            #byeMessage{
+                color: rgb(0, 140, 255);
+            }
